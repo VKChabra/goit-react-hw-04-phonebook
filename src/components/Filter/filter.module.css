@@ -1,0 +1,9 @@
+.filterLabel {
+  display: inherit;
+  margin-bottom: 20px;
+}
+
+.filterLabel input {
+  margin-left: 20px;
+  width: 200px;
+}
